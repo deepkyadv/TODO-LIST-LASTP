@@ -1,0 +1,29 @@
+/* src/components/TodoList.css */
+.todo-list {
+  padding: 20px;
+}
+
+.todo-list-container {
+  display: flex;
+  gap: 20px;
+}
+
+.task-container {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+/* src/components/Task.css */
+.task {
+  margin-top: 20px;
+}
+
+.task-item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}

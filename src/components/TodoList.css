@@ -1,0 +1,23 @@
+.todo-list {
+  padding: 20px;
+}
+
+.todo-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.task-container {
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  width: 300px;
+}
+
+.task-item {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  cursor: move;
+}
